@@ -21,6 +21,9 @@ Right now I spend most of my build time around:
 **PullPrice**  
 A trading-card market intelligence app focused on collection tracking, price history, watchlists, alerts, and decision-oriented collector workflows.
 
+**DevBot**  
+A local-first Discord bot for running coding-agent workflows from a server: ask questions, kick off tasks, review work, capture snippets, and keep project status visible. Public repo coming soon.
+
 **Developer workflow systems**  
 Local-first automation, coding-agent workflows, and tools that make planning, implementation, and verification feel less scattered.
 
