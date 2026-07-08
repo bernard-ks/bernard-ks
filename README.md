@@ -4,7 +4,7 @@ Software engineer building AI-assisted developer tools, market intelligence prod
 
 ## Selected work
 
-- **DevBot** - local-first Discord bot for coding-agent workflows: ask questions, kick off tasks, review work, capture snippets, and keep project status visible from a server. Public repo coming soon.
+- **DevBot** - local-first Discord bot for coding-agent workflows: ask questions, kick off tasks, review work, capture snippets, and keep project status visible from a server.
 - **PullPrice** - collector-grade trading-card market intelligence for tracking collections, price history, watchlists, alerts, and buy / sell / investigate signals.
 - **Engineering automation** - internal tools and test workflows for firmware, validation, reporting, and repeatable engineering processes.
 - **ML and RAG systems** - practical experiments that connect domain context to real work instead of stopping at demos.
