@@ -23,8 +23,4 @@ Node.js, Fastify, PostgreSQL, Drizzle, Prisma
 Docker, Kubernetes, Vercel, Cloudflare, GitHub Actions  
 RAG, agent workflows, local automation, evaluation-minded prompting
 
-## Also
-
-Building PullPrice and DevBot in public soon. Interested in developer tools, applied AI, market data, and engineering systems that make decisions easier.
-
 [GitHub](https://github.com/bernard-ks)
