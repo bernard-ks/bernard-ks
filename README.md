@@ -1,26 +1,14 @@
 # Bernard Knobloch
 
-Software engineer building AI-assisted developer tools, market intelligence products, and automation systems that make messy workflows easier to trust and act on.
+Software engineer focused on applied AI, data platforms, and production engineering systems.
 
-## Selected work
+I have 6+ years of full-time experience at Intel, following software and firmware internships. I have owned 20+ production systems supporting thousands of internal users and external customer stakeholders, with an emphasis on reliable automation, useful data, and maintainable software.
 
-- **DevBot** - local-first Discord bot for coding-agent workflows: ask questions, kick off tasks, review work, capture snippets, and keep project status visible from a server.
-- **PullPrice** - collector-grade trading-card market intelligence for tracking collections, price history, watchlists, alerts, and buy / sell / investigate signals.
-- **Engineering automation** - internal tools and test workflows for firmware, validation, reporting, and repeatable engineering processes.
-- **ML and RAG systems** - practical experiments that connect domain context to real work instead of stopping at demos.
+## Selected projects
 
-## How I work
+- **[devbot](https://github.com/bernard-ks/devbot)** - A local-first Discord interface for Codex that supports project-aware questions, focused development tasks, status tracking, screenshots, review handoffs, and validation workflows.
+- **PullPrice** - A trading-card market intelligence project for card discovery, collection tracking, price history, watchlists, and alerts.
 
-I care about proof more than polish. The useful work is in getting from a vague idea to a runnable system, then checking it against the real path: tests, browser behavior, API probes, logs, and the failure states people usually skip.
+## Current interests
 
-I like tools that feel calm but capable: clear interfaces, local-first workflows where they make sense, and enough automation to remove the boring parts without hiding what happened.
-
-## Toolbox
-
-TypeScript, Python, Swift, SQL  
-React, Next.js, Tailwind CSS  
-Node.js, Fastify, PostgreSQL, Drizzle, Prisma  
-Docker, Kubernetes, Vercel, Cloudflare, GitHub Actions  
-RAG, agent workflows, local automation, evaluation-minded prompting
-
-[GitHub](https://github.com/bernard-ks)
+Applied AI systems, developer tooling, data-intensive applications, and pragmatic production engineering.
