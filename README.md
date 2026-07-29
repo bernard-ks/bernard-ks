@@ -7,7 +7,7 @@ I have 6+ years of full-time experience at Intel, following software and firmwar
 ## Selected projects
 
 - **[devbot](https://github.com/bernard-ks/devbot)** - A local-first Discord interface for Codex that supports project-aware questions, focused development tasks, status tracking, screenshots, review handoffs, and validation workflows.
-- **PullPrice** - A trading-card market intelligence project for card discovery, collection tracking, price history, watchlists, and alerts.
+- **[PullPrice](https://pull-price.com)** - A trading-card market intelligence project for card discovery, collection tracking, price history, watchlists, and alerts.
 
 ## Current interests
 
